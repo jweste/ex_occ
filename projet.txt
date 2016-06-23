@@ -1,3 +1,5 @@
 Et bien, voilà un fichier pour écrire des choses intéressantes.
 Par exemple:
 Une chose intéressante
+Deux choses intéressantes
+Trois choses intéressantes
